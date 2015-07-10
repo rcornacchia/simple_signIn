@@ -6,12 +6,12 @@ The php files are also included in this repository.
 
 The database is private, but all you need to know is that
 the Users Table has three attributes:
-  -uid
-  -uname
-  -uemail
+  -uid  
+  -uname  
+  -uemail  
 
 
 The two scripts that handle user authentication and registration are included.
 They are aptly titled:
-  -authentication.php
+  -authentication.php  
   -registration.php
