@@ -1,4 +1,4 @@
-# Super Simple Sign In
+# Simple Sign In
 This app allows a user to add a name and email to mysql database.
 Then the user can sign in and authenticate their email.
 
