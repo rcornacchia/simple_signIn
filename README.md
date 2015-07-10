@@ -12,6 +12,6 @@ the Users Table has three attributes:
 
 
 The two scripts that handle user authentication and registration are included.
-They are aptly titled:
+They are aptly titled:  
   -authentication.php  
   -registration.php
